@@ -1,6 +1,6 @@
 # Medical-Genetics
 
-의학유전학 공부내용 정리
+This repository contains the practice exercises from the Medical Genetics course in the second semester of 2022
 
 ## Timeline
 
